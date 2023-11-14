@@ -13,8 +13,7 @@ Markdown es un llenguatje de marcatge lleuger, utilitzat entre altres coses, per
 ***
 
 [enllaços](https://github.com/mapp-edu/elmeuPrimerRepo/)
-![Logotip del curs d'Aules](imatges/ed_github.png)
-
+[![Esta es una imagen de ejemplo](https://img.freepik.com/fotos-premium/deslumbrante-cielo-estrellado-fondo-pantalla-universo-cielo-estrellado-fondoia-generativa_710973-6697.jpg)](https://img.freepik.com)
 ---
 
 | Repollos | Lechugas | Coliflor |
@@ -23,4 +22,4 @@ Markdown es un llenguatje de marcatge lleuger, utilitzat entre altres coses, per
 | Row 2    | Cell 5   | Cell 6   |
 | Row 3    | Cell 8   | Cell 9   |
 
-===
+===CAPÇALERA===
