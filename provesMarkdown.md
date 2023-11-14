@@ -12,7 +12,8 @@ Markdown es un llenguatje de marcatge lleuger, utilitzat entre altres coses, per
 
 ***
 
-![IMAGEN](https://github.com/mapp-edu/elmeuPrimerRepo/)]
+[enllaços](https://github.com/mapp-edu/elmeuPrimerRepo/)
+![Logotip del curs d'Aules](imatges/ed_github.png)
 
 ---
 
